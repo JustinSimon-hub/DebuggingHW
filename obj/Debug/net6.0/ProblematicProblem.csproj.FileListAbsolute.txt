@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ProblematicProblem.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ProblematicProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ProblematicProblem.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ProblematicProblem.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ProblematicProblem.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/bin/Debug/net6.0/ProblematicProblem
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/bin/Debug/net6.0/ProblematicProblem.deps.json
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/bin/Debug/net6.0/ProblematicProblem.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/bin/Debug/net6.0/ProblematicProblem.dll
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/bin/Debug/net6.0/ProblematicProblem.pdb
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ProblematicProblem.dll
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/refint/ProblematicProblem.dll
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ProblematicProblem.pdb
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ProblematicProblem.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/ProblematicProblem/ProblematicProblem/obj/Debug/net6.0/ref/ProblematicProblem.dll
